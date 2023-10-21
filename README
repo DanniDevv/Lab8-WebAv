@@ -1,0 +1,8 @@
+Se instalaron :
+
+[ X ] npm install mongoose
+[ X ] npm install express
+[ X ] npm install tailwindcss
+[ X ] npm install bcrypt
+[ X ] npm install express-validator
+
